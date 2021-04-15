@@ -12,3 +12,14 @@ API data was scraped from following sources:
 * Dallas crime: https://www.dallasopendata.com/Public-Safety/Police-Incidents/qv6i-rri7
 * LA crime: https://data.lacity.org/Public-Safety/Crime-Data-from-2010-to-2019/63jg-8b9z
 * San Francisco crime: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry
+## Python Prerequisities
+Import pandas
+Import numpy
+from keras.layers import Dense
+from keras.models import Sequential
+from sklearn.model_selection import train_test_split
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.preprocessing import StandardScaler
+from sklearn.decomposition import PCA
+import matplotlib.pyplot as plt
+import seaborn as sns
