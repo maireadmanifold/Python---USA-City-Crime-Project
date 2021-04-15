@@ -1,7 +1,7 @@
 # USA-Major-City-Crime-Project
 This project scraped data from USA census bureau and added it to crime data from the following cities: New York, Baltimore, Chicago, Dallas, LA and San Franciso. 
 ## Overview
-The purpose of the project was to be able to look at social demographics in the context of crime statistics   
+The purpose of the project was to be able to look at social demographics in the context of crime rates.    
 ## API Sources
 API data was scraped from following sources: 
 * USA census data: https://api.census.gov/data
