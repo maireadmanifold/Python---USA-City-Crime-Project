@@ -3,7 +3,7 @@ This project scraped data from USA census bureau and added it to crime data from
 ## Overview
 The purpose of the project was to be able to look at social demographics in the context of crime rates.    
 ## API Sources
-API data was scraped from following sources: 
+API data was scraped from following API sources: 
 * USA census data: https://api.census.gov/data
 
 * New York crime: https://data.cityofnewyork.us/Public-Safety/NYPD-Criminal-Court-Summons-Historic-/sv2w-rv3k
