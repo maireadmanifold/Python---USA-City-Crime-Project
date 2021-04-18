@@ -1,7 +1,9 @@
 # USA-City-Crime-Project
 This project scraped data from USA census bureau and added it to crime data from the following cities: New York, Baltimore, Chicago, Dallas, LA and San Franciso. 
 ## Overview
-The purpose of the project was to be able to look at social demographics in the context of crime rates.    
+The purpose of the project was to be able to look at social demographics in the context of crime rates. The project results were written up as an academic paper "Greening neighbourhoods in high crime areas". 
+Visualisations were created in Tableau. 
+
 ## API Sources
 API data was scraped from following API sources: 
 * USA census data: https://api.census.gov/data
